@@ -1,0 +1,10 @@
+s = input("Enter a string: ")
+
+print("Length:", len(s))
+print("Uppercase:", s.upper())
+print("Lowercase:", s.lower())
+print("Title case:", s.title())
+print("Reversed:", s[::-1])
+print("Vowel count:", sum(1 for c in s.lower() if c in "aeiou"))
+print("Word count:", len(s.split()))
+print("Palindrome:", "Yes" if s.lower() == s.lower()[::-1] else "No")

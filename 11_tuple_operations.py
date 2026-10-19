@@ -1,0 +1,13 @@
+t1 = (10, 20, 30, 40, 20)
+t2 = (50, 60)
+
+print("Tuple 1:", t1)
+print("Length:", len(t1))
+print("Max:", max(t1), "| Min:", min(t1))
+print("Count of 20:", t1.count(20))
+print("Index of 30:", t1.index(30))
+print("Concatenation:", t1 + t2)
+print("Repetition:", t2 * 2)
+print("Slicing t1[1:4]:", t1[1:4])
+print("Reversed:", t1[::-1])
+print("Sorted:", tuple(sorted(t1)))
