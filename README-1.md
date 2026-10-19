@@ -4,10 +4,10 @@ A collection of 15 beginner-level Python programs covering conditionals, loops, 
 
 | Field | Details |
 |---|---|
-| Name | _Your Name_ |
-| Roll No. | _Your Roll No._ |
-| Course | _Course Name_ |
-| College | Ramanujan College, University of Delhi |
+| Name | PAVAN MISHRA |
+| Roll No. | 26570044 |
+| Course | Bsc. HONS. COMPUTER SCIENCE |
+| College | RAMANUJAN COLLEGE, UNIVERSITY OF DELHI |
 
 ## How to run
 
